@@ -3,7 +3,7 @@
 ### 0.0.1 (December 27, 2019)
 
   * Added the support of embedded libraries,
-  * Release.
+  * ...,
 
 
 ### 0.0.0 (December 23, 2019)
