@@ -1,6 +1,6 @@
 {
   "name": "gulp-modulify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tool to embed ES6 Javascript code into an UMD module",
   "main": "index.js",
   "bin": {},
@@ -16,7 +16,10 @@
     "type": "git",
     "url": "https://github.com/jclo/gulp-modulify.git"
   },
-  "keywords": [],
+  "keywords": [
+    "gulp",
+    "IIFE",
+  ],
   "author": {
     "name": "Mobilabs",
     "email": "contact@mobilabs.fr",
