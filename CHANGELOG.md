@@ -3,7 +3,7 @@
 ### 0.0.3 (December 28, 2019)
 
   * Fixed an issue when exporting an object referenced by the hyphen character only,
-  * ...,
+  * Release.
 
 
 ### 0.0.2 (December 27, 2019)
