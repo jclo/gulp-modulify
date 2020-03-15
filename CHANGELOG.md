@@ -1,5 +1,11 @@
 ### HEAD
 
+### 0.0.4 (March 15, 2020)
+
+  * Updated the dependencies,
+  * ...,
+
+
 ### 0.0.3 (December 28, 2019)
 
   * Fixed an issue when exporting an object referenced by the hyphen character only,
