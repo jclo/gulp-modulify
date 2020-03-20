@@ -3,7 +3,7 @@
 ### 0.0.5 (March 20, 2020)
 
   * Updated a comment to generate an IIFE identical to ES6lib,
-  * ...,
+  * Release.
 
 
 ### 0.0.4 (March 15, 2020)
