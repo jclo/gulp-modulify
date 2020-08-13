@@ -8,7 +8,8 @@
 [![License][license-image]](LICENSE.md)
 <!--- [![node version][node-image]][node-url] -->
 
-[![NPM install][npm-install-image]][npm-install-url]
+| `gulp-modulify` has been deprecated. Please, use [kadoo](https://www.npmjs.com/package/kadoo) or [pakket](https://www.npmjs.com/package/pakket) now. |
+| --- |
 
 `gulp-modulify` encapsulates each javascript source file inside an IIFE module and the whole inside an UMD module. The generated output is an UMD library that could run on both Node.js and the browsers.
 

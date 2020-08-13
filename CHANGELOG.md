@@ -1,5 +1,10 @@
 ### HEAD
 
+### 0.0.6 (August 13, 2020)
+
+  * End Of Life!
+
+
 ### 0.0.5 (March 20, 2020)
 
   * Updated a comment to generate an IIFE identical to ES6lib,

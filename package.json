@@ -1,6 +1,6 @@
 {
   "name": "gulp-modulify",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A tool to embed ES6 Javascript code into an UMD module",
   "main": "index.js",
   "bin": {},
@@ -35,15 +35,15 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "coveralls": "^3.0.9",
+    "coveralls": "^3.1.0",
     "cross-env": "^7.0.2",
     "del": "^5.1.0",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-plugin-import": "^2.20.1",
-    "husky": "^4.2.3",
-    "mocha": "^7.1.0",
-    "nyc": "^15.0.0",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "husky": "^4.2.5",
+    "mocha": "^8.1.1",
+    "nyc": "^15.1.0",
     "opener": "^1.5.1"
   },
   "publishConfig": {
